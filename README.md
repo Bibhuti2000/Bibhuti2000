@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bibhuti200 AKA Bibhuti Bhushan Saha.
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning basics such as DSA and C language.
+- 🌱 I’m currently learning basics such as DSA and C++ language.
 - 💞️ I’m looking to collaborate on anything which will help me to do project based learning.
 - 📫 to reach me. you can call me on : Email me at : bhibhutibhushansaha2000@gmail.com 
 
