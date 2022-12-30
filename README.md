@@ -6,8 +6,9 @@
 - 😎 I have an entrepreneurial mindset.
 - 😝 I do not code for the sake of coding, I code for business solutions.
 
-
 ![](https://media.tenor.com/u8jwYAiT_DgAAAAC/boom-bomb.gif)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bibhuti2000&theme=dark)](https://git.io/streak-stats)
 
 
 <h2>Technologies i know</h2>
@@ -19,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
 <!---
 Bibhuti2000/Bibhuti2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
